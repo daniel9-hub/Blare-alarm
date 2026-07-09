@@ -27,3 +27,6 @@ It took me like 3 minutes. This is also when i realised that i have to go to sle
 # Journal log #5
 I made the code and finished up the assembly. I thankfully got some more time and after a generational 45 minute lock in i managed to finish it, the code is really barebones though, but after i get the parts, ill make the alarm part work.
 
+<img width="1248" height="676" alt="Screenshot 2026-07-09 234007" src="https://github.com/user-attachments/assets/231ea495-b89d-40c5-b9ee-976e601d106b" />
+
+
