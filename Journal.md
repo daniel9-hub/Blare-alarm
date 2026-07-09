@@ -29,4 +29,8 @@ I made the code and finished up the assembly. I thankfully got some more time an
 
 <img width="1248" height="676" alt="Screenshot 2026-07-09 234007" src="https://github.com/user-attachments/assets/231ea495-b89d-40c5-b9ee-976e601d106b" />
 
+# Journal log #6
+
+Its 12:25 for me right now when im writing this, but i finally finished the bom and wiring after like 40 minutes so now i just have to finish the repo :(.
+
 
