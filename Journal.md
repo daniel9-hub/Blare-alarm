@@ -24,3 +24,6 @@ I made the holder for car horns.
 
 It took me like 3 minutes. This is also when i realised that i have to go to sleep in like 30 minutes and i still didnt make the code and i have to submit it today so i really locked in.
 
+# Journal log #5
+I made the code and finished up the assembly. I thankfully got some more time and after a generational 45 minute lock in i managed to finish it, the code is really barebones though, but after i get the parts, ill make the alarm part work.
+
